@@ -1,7 +1,8 @@
 # Flappy-bird-2019
 Just another Flappy-bird game on github
 
--Requirements
+Requirements
+------------
 PyGame
 
 
